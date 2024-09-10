@@ -3,6 +3,11 @@
 </h1>
 This is a scraper to get the named powers from power wiki listing and export them to a .csv file.
 
+# Technologies used
+
+- [Jsoup](https://jsoup.org/)
+- [OpenCSV](https://opencsv.sourceforge.net/)
+
 # How to run
 
 - Clone git repository:
